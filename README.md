@@ -81,6 +81,6 @@ Similarly we can calculate the value for any n.
 3. python main.py <days>
 
 python main.py 5     
-Output - For 5 days: 14/29
+Output - For 5 days: 14/29  
 python main.py 10     
 Output - For 10 days: 372/773
